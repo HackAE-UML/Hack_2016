@@ -3,6 +3,12 @@ import botocore
 import sys
 import os
 
+def print_bucket_files(s3):
+        """Prints out all of the files in all of my buckets"""
+        for bucket in s3.buckets.all():
+                print(bucket.name)
+                for ob in bucket.objects.all():
+                        print("\t+" + ob.__str__())
 #Constants
 BUCKET_NAME = 'generationu-userfiles-mobilehub-762974824'
 
@@ -26,3 +32,8 @@ print "Uploading File\n"
 s3.Object(BUCKET_NAME,'SeniorProfiles/' +fileName).put(Body=open( fileName,'rb'))
 
 print "File " + fileName + " should be added."
+
+#print_bucket_files(s3)
+
+
+                        

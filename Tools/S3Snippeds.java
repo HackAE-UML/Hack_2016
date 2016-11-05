@@ -1,6 +1,6 @@
 
 
-public final my_bucket = "generationu-userfiles-mobilehub-762974824'"
+public final my_bucket = "generationu-userfiles-mobilehub-762974824'";
 
 public  void ReadAllSeniorFiles()
 {
@@ -23,9 +23,8 @@ public  void ReadAllSeniorFiles()
 		 //Read the object's data into an InputStream
 		 objectData = object.getObjectContent();
 		 
-		 //Load
+		 //Load Senior data from xml
+		 //insert your method here
 	}
 
 }
-
-private

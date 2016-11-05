@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<senior-profile>
+	<senior id="001">
+		<personal-info>
+			<first-name>John</first-name>
+			<last-name>Doe</last-name>
+			<dob>YYYY-MM-DD</dob>
+			<phone>XXX-XXXXX</phone>
+			<address>
+				<street>1 University ave</street>
+				<city>Lowell</city>
+				<state>MA</state>
+				<zipcode>01854</zipcode>
+			</address>
+		</personal-info>
+		<activities>
+			<like>
+				<list></list>
+			</like>
+			<nlike>
+				<list></list>
+			</nlike>
+		</activities>
+		<matched>
+			<matched-id></matched-id>
+			<matched-location></matched-location>
+		</matched>
+	</senior>
+</senior-profile>

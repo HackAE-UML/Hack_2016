@@ -1,6 +1,0 @@
-gitignore
-# Anything credential Related#
-###################
-
-.aws/
-*rootkey*

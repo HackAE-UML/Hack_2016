@@ -2,5 +2,5 @@ gitignore
 # Anything credential Related#
 ###################
 
-.aws/
-*rootkey*
+.aws/*
+**/*rootkey*

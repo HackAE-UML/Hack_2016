@@ -4,8 +4,8 @@ public final my_bucket = "generationu-userfiles-mobilehub-762974824'";
 
 public  void ReadAllSeniorFiles()
 {
-	//hardcoded credentials
-	BasicAWSCredentials creds = new BasicAWSCredientials("AKIAJZRFXAQ6CB2W3SKQ", "GdH/TgXU9pUHBDU7FDxTPDkjIbuBKL1WFyBg1Gnx");
+	//substitute for credentials
+	BasicAWSCredentials creds = new BasicAWSCredientials("access_key", "secret_key");
 	AmazonS3Client s3 =  new AmazonS3Client( creds,);
 	
 	//loop through objects in SeniorProfiles/

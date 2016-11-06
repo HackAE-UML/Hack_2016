@@ -14,12 +14,10 @@
 			</address>
 		</personal-info>
 		<activities>
-			<like>
-				<list>I really enjoy solving logical games that test your reasoning</list>
-			</like>
-			<dislike>
-				<list> traveling</list>
-			</dislike>
+			<like>sudoku</like>
+			<like>crossword puzzles</like>
+			<dislike>traveling</dislike>
+			<dislike>swimming</dislike>
 		</activities>
 		<matched>
 			<matched-id>017</matched-id>

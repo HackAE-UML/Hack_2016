@@ -14,15 +14,13 @@
 			</address>
 		</personal-info>
 		<activities>
-			<like>
-				<list>I like playing basketball. Cup stacking and playing Checkers is fun too. </list>
-			</like>
-			<dislike>
-				<list>working</list>
-			</dislike>
+			<like>bingo</like>
+			<like>Cup stacking</like>
+			<like>Checkers</like>
+			<dislike>basketball</dislike>
 		</activities>
 		<matched>
 			<matched-id>015</matched-id>
-			<matched-location>Lowell</matched-location>
+			<matched-location>Wilmington</matched-location>
 		</matched>
 	</volunteer3>

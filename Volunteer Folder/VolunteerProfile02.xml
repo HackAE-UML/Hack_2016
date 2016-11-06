@@ -14,12 +14,9 @@
 			</address>
 		</personal-info>
 		<activities>
-			<like>
-				<list>I enjoy reading all kinds of books, from mangas to fantasy novels. I also love to knit.</list>
-			</like>
-			<dislike>
-				<list>Sports</list>
-			</dislike>
+			<like>reading </like>
+			<like>knitting </like>
+			<dislike> Sports </dislike>
 		</activities>
 		<matched>
 			<matched-id>014</matched-id>

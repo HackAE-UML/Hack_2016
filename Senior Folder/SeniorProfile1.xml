@@ -1,10 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <senior1 id="001">
     <personal-info>
       	<first-name>John</first-name>
      	 <last-name>Joseph</last-name>
      	 <dob>1951-10-09</dob>
-	<gender>M</gender>
       	<phone>857-908-7834</phone>
+	<gender>M</gender>
       	<address>
         	<street>1 University ave</street>
         	<city>Lowell</city>
@@ -12,10 +13,10 @@
         	<zipcode>01854</zipcode>
       	</address>
     </personal-info>
-
     	<activities>
-      		<like></like>Golfing, Used to enjoy hiking
-		<dislike><list>Peanut Butter</list></dislike>
+      		<like>golfing</like>
+		<like>swimming</like>
+		<dislike>working</dislike>
 	</activities>
 
     <matched>

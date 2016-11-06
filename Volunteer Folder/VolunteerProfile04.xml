@@ -14,15 +14,16 @@
 			</address>
 		</personal-info>
 		<activities>
-			<like>
-				<list> I love going for a jog and hiking. I also enjoy swimming</list>
-			</like>
-			<dislike>
-				<list>Sky diving</list>
-			</dislike>
+			<like>jogging</like>
+			<like>hiking</like>
+			<like>swimming</like>
+			<like>walking</like>
+			<dislike>Sky diving</dislike>
 		</activities>
+
 		<matched>
 			<matched-id>016</matched-id>
 			<matched-location>Wilmington</matched-location>
 		</matched>
+
 	</volunteer4>

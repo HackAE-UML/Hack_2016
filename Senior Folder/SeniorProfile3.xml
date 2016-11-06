@@ -1,4 +1,5 @@
-  <senior3 id="003">
+<?xml version="1.0" encoding="UTF-8"?>
+<senior3 id="003">
     <personal-info>
       <first-name>Kenneth</first-name>
       <last-name>Mills</last-name>
@@ -14,9 +15,11 @@
     </personal-info>
 
     <activities>
-      <like>I have been playing Chess and checkers my whole life, it's truly something I enjoy. </like>
-	<dislike><list>Bingo</list></dislike>
-	</activities>
+      	<like>Chess</like>
+	<like>Cup stacking</like>
+	<like>Checkers</like>
+	<dislike>Bingo</dislike>
+     </activities>
 
     <matched>
       <matched-id>015</matched-id>

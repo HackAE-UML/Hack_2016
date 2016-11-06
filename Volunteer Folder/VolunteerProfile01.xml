@@ -14,12 +14,11 @@
 			</address>
 		</personal-info>
 		<activities>
-			<like>
-				<list>I really enjoy nature, anything from kayaking to surfing</list>
-			</like>
-			<dislike>
-				<list>working</list>
-			</dislike>
+				<like>kayaking</like>
+				<like>swimming</like>
+				<like>golfing</like>
+				<like>surfing</like>
+			<dislike> working </dislike>
 		</activities>
 		<matched>
 			<matched-id>013</matched-id>

@@ -1,23 +1,27 @@
-  <senior4 id="004">
+<?xml version="1.0" encoding="UTF-8"?>
+<senior4 id="004">
     <personal-info>
-      <first-name>Steven</first-name>
-      <last-name>Park</last-name>
-      <dob>1950-02-19</dob>
+      	<first-name>Steven</first-name>
+      	<last-name>Park</last-name>
+      	<dob>1950-02-19</dob>
 	<gender>M</gender>
-      <phone>978-864-7804</phone>
+     	 <phone>978-864-7804</phone>
       <address>
-        <street>45 Chestnut St</street>
-        <city>Wilmington</city>
-        <state>MA</state>
-        <zipcode>01887</zipcode>
+      	  <street>45 Chestnut St</street>
+      	  <city>Wilmington</city>
+      	  <state>MA</state>
+          <zipcode>01887</zipcode>
       </address>
     </personal-info>
     <activities>
-      <like>I like nature, it makes me feel at ease. </like>
-	<dislike><list>I don't like staying indoors</list></dislike>
+      		<like>walking</like>
+		<like>jogging</like>
+		<dislike>bingo</dislike>
 	</activities>
+
     <matched>
       <matched-id>016</matched-id>
       <matched-location>Wilmington</matched-location>
     </matched>
+
   </senior4>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<senior id="007">
+    <personal-info>
+      <first-name>Kayla</first-name>
+      <last-name>Orcell</last-name>
+      <dob>1945-04-17</dob>
+	<gender>M</gender>
+      <phone>857-674-1458</phone>
+      <address>
+        <street>34 Elm St</street>
+        <city>Everett</city>
+        <state>MA</state>
+        <zipcode>02149</zipcode>
+      </address>
+    </personal-info>
+
+    <activities>
+      	<like>Chess</like>
+	<like>Reading</like>
+	<like>Checkers</like>
+	<dislike>Golfing</dislike>
+     </activities>
+
+    <matched>
+      <matched-id>016</matched-id>
+      <matched-location>Everett</matched-location>
+    </matched>
+  </senior>

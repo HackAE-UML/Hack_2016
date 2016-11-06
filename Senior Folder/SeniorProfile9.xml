@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<senior id="009">
+    <personal-info>
+     	 <first-name>Marie</first-name>
+     	 <last-name>Do</last-name>
+     	 <dob>1949-11-06</dob>
+	<gender>F</gender>
+      	<phone>978-651-2673</phone>
+      	<address>
+      		  <street>3 Haverhill St</street>
+      		  <city>Lowell</city>
+       		 <state>MA</state>
+       		 <zipcode>01854</zipcode>
+      	</address>
+    </personal-info>
+
+    <activities>
+      		<like> karaoke</like>
+		<like> swimming</like>
+		<dislike>knitting</dislike>
+	</activities>
+
+    <matched>
+      <matched-id>013</matched-id>
+      <matched-location>Lowell</matched-location>
+    </matched>
+  </senior>

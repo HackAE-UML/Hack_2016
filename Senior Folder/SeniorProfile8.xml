@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<senior id="008">
+    <personal-info>
+      	<first-name>Thomas</first-name>
+      	<last-name>Keegan</last-name>
+      	<dob>1948-08-01</dob>
+	<gender>M</gender>
+     	 <phone>978-864-7804</phone>
+      <address>
+      	  <street>45 Chestnut St</street>
+      	  <city>Malden</city>
+      	  <state>MA</state>
+          <zipcode>02148</zipcode>
+      </address>
+    </personal-info>
+    <activities>
+      		<like>walking</like>
+		<like>reading</like>
+		<dislike>checkers</dislike>
+	</activities>
+
+    <matched>
+      <matched-id>015</matched-id>
+      <matched-location>Malden</matched-location>
+    </matched>
+
+  </senior>

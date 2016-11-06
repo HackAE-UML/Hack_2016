@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<senior id="006">
+    <personal-info>
+      	<first-name>Jessica</first-name>
+     	 <last-name>Lee</last-name>
+     	 <dob>1976-09-08</dob>
+      	<phone>781-095-7098</phone>
+	<gender>F</gender>
+      	<address>
+        	<street>23 Broadway St</street>
+        	<city>Everett</city>
+        	<state>MA</state>
+        	<zipcode>02149</zipcode>
+      	</address>
+    </personal-info>
+    	<activities>
+      		<like>knitting</like>
+		<like>swimming</like>
+		<dislike>puzzles</dislike>
+	</activities>
+
+    <matched>
+      <matched-id>014</matched-id>
+      <matched-location>Everett</matched-location>
+    </matched>
+
+ </senior>

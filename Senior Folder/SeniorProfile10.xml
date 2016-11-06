@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <senior id="010">
+    <personal-info>
+    	  <first-name>Timothy</first-name>
+      	<last-name>Harrington</last-name>
+     	 <dob>1943-09-11</dob>
+	<gender>M</gender>
+     	 <phone>617-612-2668</phone>
+     	 <address>
+      		  <street>25 Central St</street>
+      		  <city>Boston</city>
+      		  <state>MA</state>
+      		  <zipcode>02108</zipcode>
+      </address>
+    </personal-info>
+
+    <activities>
+    	 	 <like>crossword puzzles</like>
+		<like>jigsaw puzzles</like>
+		<like>sudoku</like>
+		<dislike>karaoke</dislike>
+	</activities>
+
+    <matched>
+     	 <matched-id>017</matched-id>
+     	 <matched-location>Boston</matched-location>
+    </matched>
+
+  </senior>

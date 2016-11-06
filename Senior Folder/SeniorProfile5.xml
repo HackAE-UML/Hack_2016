@@ -1,0 +1,23 @@
+  <senior5 id="005">
+    <personal-info>
+      <first-name>Michael</first-name>
+      <last-name>Hu</last-name>
+      <dob>1955-03-12</dob>
+	<gender>M</gender>
+      <phone>617-459-6714</phone>
+      <address>
+        <street>25 Florence St</street>
+        <city>Boston</city>
+        <state>MA</state>
+        <zipcode>02108</zipcode>
+      </address>
+    </personal-info>
+    <activities>
+      <like>I like solving jigsaw puzzles, crossword puzzles, and sudokus </like>
+	<dislike><list>I dislike karaoke</list></dislike>
+	</activities>
+    <matched>
+      <matched-id>017</matched-id>
+      <matched-location>Boston</matched-location>
+    </matched>
+  </senior5>

@@ -1,0 +1,25 @@
+  <senior2 id="002">
+    <personal-info>
+      <first-name>Marie</first-name>
+      <last-name>Do</last-name>
+      <dob>1949-11-06</dob>
+	<gender>F</gender>
+      <phone>781-876-0982</phone>
+      <address>
+        <street>3 Riverside St</street>
+        <city>Lowell</city>
+        <state>MA</state>
+        <zipcode>01854</zipcode>
+      </address>
+    </personal-info>
+
+    <activities>
+      <like>When I was younger I used to love dancing, anywhere from ballet to contemporary. I admire reading more than anything now. </like>
+	<dislike><list>Dogs</list></dislike>
+	</activities>
+
+    <matched>
+      <matched-id>014</matched-id>
+      <matched-location>Lowell</matched-location>
+    </matched>
+  </senior2>

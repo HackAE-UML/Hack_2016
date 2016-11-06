@@ -1,0 +1,25 @@
+  <senior3 id="003">
+    <personal-info>
+      <first-name>Kenneth</first-name>
+      <last-name>Mills</last-name>
+      <dob>1945-04-17</dob>
+	<gender>M</gender>
+      <phone>781-794-0352</phone>
+      <address>
+        <street>34 Main St</street>
+        <city>Wilmington</city>
+        <state>MA</state>
+        <zipcode>01887</zipcode>
+      </address>
+    </personal-info>
+
+    <activities>
+      <like>I have been playing Chess and checkers my whole life, it's truly something I enjoy. </like>
+	<dislike><list>Bingo</list></dislike>
+	</activities>
+
+    <matched>
+      <matched-id>015</matched-id>
+      <matched-location>Wilmington</matched-location>
+    </matched>
+  </senior3>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
- <senior5 id="005">
+ <senior id="005">
     <personal-info>
     	  <first-name>Michael</first-name>
       	<last-name>Hu</last-name>
@@ -27,4 +27,4 @@
      	 <matched-location>Boston</matched-location>
     </matched>
 
-  </senior5>
+  </senior>
